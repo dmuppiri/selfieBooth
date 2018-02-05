@@ -14,7 +14,7 @@ Selfie Booth application for android
 2. Download the "awsconfiguration.json" file for the project
 
 
-#### Installing
+#### Install
 
 1. Copy "awsconfiguration.json" obtained from AWS mobile hub to '/app/src/main/res/raw/'
 2. Import the project to Android Studio to build the application.
